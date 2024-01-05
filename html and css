@@ -1,0 +1,30 @@
+<html>
+
+<head>
+<title>EEKART</title>
+<body>
+
+<script>
+  function play(){
+       var audio = document.getElementById("audio");
+       audio.play();
+                 }
+   </script>
+
+ </body>
+<div style= "background-color:RED;color:YELLOW;font-weight:bold;">
+   <h1 align=center>FERRARI FOR SALE!</h1></div>
+<img src="C:\Users\user\Downloads\ferrarihd.jpg"  value="PLAY"  onclick="play()" width=1500" height=550" >
+<audio id="audio" src="C:\Users\user\Downloads\carexhaust.mp3" ></audio>
+ </body>
+<a href="https://www.ferrari.com/en-IN">
+   
+<button style="background-color:red;color:white;
+    margin: 4px 4px;padding:10px;font-weight:bold;font-size:16px;
+    border-radius:5px;">BUY NOW!</button><br>
+   </a>
+  
+  
+</body>
+</head>
+</html>
